@@ -1,4 +1,4 @@
-( 👋 Hello, I’m @vinodpalnati
+ 👋 Hello, I’m @vinodpalnati
 - 👀 I’m interested in Linux, SQL, DevOps, Terraform, Testing, and UML.
 - 🌱 I’m currently learning DevOps, Terraform, and Aws.
 - 💞️ I’m looking to collaborate on Terraform.
